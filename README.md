@@ -1,6 +1,3 @@
-Aqui está um modelo de README para o seu plugin de mensagem privada (tell) para Minecraft BungeeCord. Sinta-se à vontade para personalizá-lo conforme necessário!
-
-```markdown
 # yasTell-Bungee
 
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg)
